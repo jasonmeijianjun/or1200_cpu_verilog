@@ -1,0 +1,1235 @@
+or1200_except.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_except.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_except
+
+Top level modules:
+	or1200_except
+
+} {} {}} wb_conmax_pri_enc.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/wb_conmax_pri_enc.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_pri_enc
+
+Top level modules:
+	wb_conmax_pri_enc
+
+} {} {}} or1200_spram_256x21.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_256x21.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_256x21
+
+Top level modules:
+	or1200_spram_256x21
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_wbmux.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_wbmux.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_wbmux
+
+Top level modules:
+	or1200_wbmux
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu
+
+Top level modules:
+	or1200_fpu
+
+} {} {}} or1200_pic.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_pic.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_pic
+
+Top level modules:
+	or1200_pic
+
+} {} {}} or1200_gmultp2_32x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_gmultp2_32x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_gmultp2_32x32
+
+Top level modules:
+	or1200_gmultp2_32x32
+
+} {} {}} timescale.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/timescale.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+
+} {} {}} or1200_genpc.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_genpc.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_genpc
+
+Top level modules:
+	or1200_genpc
+
+} {} {}} or1200_dpram_256x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_dpram_256x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dpram_256x32
+
+Top level modules:
+	or1200_dpram_256x32
+
+} {} {}} or1200_dmmu_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_dmmu_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dmmu_top
+
+Top level modules:
+	or1200_dmmu_top
+
+} {} {}} or1200_fpu_pre_norm_div.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_pre_norm_div.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_pre_norm_div
+
+Top level modules:
+	or1200_fpu_pre_norm_div
+
+} {} {}} or1200_defines.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_defines.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_dc_ram.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_dc_ram.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dc_ram
+
+Top level modules:
+	or1200_dc_ram
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_amultp2_32x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_amultp2_32x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_pre_norm_addsub.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_pre_norm_addsub.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_pre_norm_addsub
+
+Top level modules:
+	or1200_fpu_pre_norm_addsub
+
+} {} {}} or1200_spram_2048x8.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_2048x8.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_2048x8
+
+Top level modules:
+	or1200_spram_2048x8
+
+} {} {}} or1200_sb_fifo.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_sb_fifo.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_sb_fifo
+
+Top level modules:
+	or1200_sb_fifo
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_freeze.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_freeze.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_freeze
+
+Top level modules:
+	or1200_freeze
+
+} {} {}} or1200_spram_64x24.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_64x24.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_64x24
+
+Top level modules:
+	or1200_spram_64x24
+
+} {} {}} wb_conmax_slave_if.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/wb_conmax_slave_if.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_slave_if
+
+Top level modules:
+	wb_conmax_slave_if
+
+} {} {}} or1200_spram.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram
+
+Top level modules:
+	or1200_spram
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/wb_conmax_msel.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/wb_conmax_msel.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_msel
+
+Top level modules:
+	wb_conmax_msel
+
+} {} {}} or1200_dmmu_tlb.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_dmmu_tlb.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dmmu_tlb
+
+Top level modules:
+	or1200_dmmu_tlb
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/wb_conmax_master_if.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/wb_conmax_master_if.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_master_if
+
+Top level modules:
+	wb_conmax_master_if
+
+} {} {}} or1200_fpu_post_norm_div.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_post_norm_div.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_post_norm_div
+
+Top level modules:
+	or1200_fpu_post_norm_div
+
+} {} {}} or1200_fpu_post_norm_addsub.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_post_norm_addsub.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_post_norm_addsub
+
+Top level modules:
+	or1200_fpu_post_norm_addsub
+
+} {} {}} or1200_fpu_div.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_div.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_div
+
+Top level modules:
+	or1200_fpu_div
+
+} {} {}} or1200_fpu_addsub.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_addsub.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_addsub
+
+Top level modules:
+	or1200_fpu_addsub
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/wb_conmax_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/wb_conmax_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_top
+
+Top level modules:
+	wb_conmax_top
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_32x24.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_32x24.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_32x24
+
+Top level modules:
+	or1200_spram_32x24
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_sb.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_sb.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_sb
+
+Top level modules:
+	or1200_sb
+
+} {} {}} or1200_ic_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_ic_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_ic_top
+
+Top level modules:
+	or1200_ic_top
+
+} {} {}} wb_conmax_arb.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/wb_conmax_arb.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_arb
+
+Top level modules:
+	wb_conmax_arb
+
+} {} {}} or1200_spram_32_bw.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_32_bw.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_32_bw
+
+Top level modules:
+	or1200_spram_32_bw
+
+} {} {}} or1200_mem2reg.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_mem2reg.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_mem2reg
+
+Top level modules:
+	or1200_mem2reg
+
+} {} {}} or1200_rf.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_rf.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_rf
+
+Top level modules:
+	or1200_rf
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_wb_biu.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_wb_biu.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_wb_biu
+
+Top level modules:
+	or1200_wb_biu
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_64x22.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_64x22.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_64x22
+
+Top level modules:
+	or1200_spram_64x22
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_fcmp.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_fcmp.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_fcmp
+
+Top level modules:
+	or1200_fpu_fcmp
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_xcv_ram32x8d.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_xcv_ram32x8d.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_iwb_biu.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_iwb_biu.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_iwb_biu
+
+Top level modules:
+	or1200_iwb_biu
+
+} {} {}} or1200_mult_mac.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_mult_mac.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_mult_mac
+
+Top level modules:
+	or1200_mult_mac
+
+} {} {}} or1200_alu.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_alu.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_alu
+
+Top level modules:
+	or1200_alu
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/wb_conmax_rf.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/wb_conmax_rf.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_rf
+
+Top level modules:
+	wb_conmax_rf
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_qmem_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_qmem_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_qmem_top
+
+Top level modules:
+	or1200_qmem_top
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_operandmuxes.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_operandmuxes.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_operandmuxes
+
+Top level modules:
+	or1200_operandmuxes
+
+} {} {}} or1200_dc_fsm.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_dc_fsm.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dc_fsm
+
+Top level modules:
+	or1200_dc_fsm
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_dpram.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_dpram.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dpram
+
+Top level modules:
+	or1200_dpram
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_lsu.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_lsu.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_lsu
+
+Top level modules:
+	or1200_lsu
+
+} {} {}} or1200_sopc.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_sopc.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_sopc
+
+Top level modules:
+	or1200_sopc
+
+} {} {}} or1200_pm.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_pm.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_pm
+
+Top level modules:
+	or1200_pm
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_2048x32_bw.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_2048x32_bw.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_2048x32_bw
+
+Top level modules:
+	or1200_spram_2048x32_bw
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_dpram_32x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_dpram_32x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dpram_32x32
+
+Top level modules:
+	or1200_dpram_32x32
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_1024x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_1024x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_1024x32
+
+Top level modules:
+	or1200_spram_1024x32
+
+} {} {}} or1200_ic_tag.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_ic_tag.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_ic_tag
+
+Top level modules:
+	or1200_ic_tag
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/ram_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/ram_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module ram_top
+
+Top level modules:
+	ram_top
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_reg2mem.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_reg2mem.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_reg2mem
+
+Top level modules:
+	or1200_reg2mem
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_if.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_if.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_if
+
+Top level modules:
+	or1200_if
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/wb_conmax_defines.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/wb_conmax_defines.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_tt.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_tt.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_tt
+
+Top level modules:
+	or1200_tt
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_64x14.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_64x14.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_64x14
+
+Top level modules:
+	or1200_spram_64x14
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_dc_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_dc_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dc_top
+
+Top level modules:
+	or1200_dc_top
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_du.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_du.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_du
+
+Top level modules:
+	or1200_du
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_pre_norm_mul.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_pre_norm_mul.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_pre_norm_mul
+
+Top level modules:
+	or1200_fpu_pre_norm_mul
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_ic_fsm.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_ic_fsm.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_ic_fsm
+
+Top level modules:
+	or1200_ic_fsm
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_128x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_128x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_128x32
+
+Top level modules:
+	or1200_spram_128x32
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_immu_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_immu_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_immu_top
+
+Top level modules:
+	or1200_immu_top
+
+} {} {}} or1200_wbmux.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_wbmux.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_wbmux
+
+Top level modules:
+	or1200_wbmux
+
+} {} {}} or1200_fpu.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu
+
+Top level modules:
+	or1200_fpu
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_512x20.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_512x20.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_512x20
+
+Top level modules:
+	or1200_spram_512x20
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_2048x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_2048x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_2048x32
+
+Top level modules:
+	or1200_spram_2048x32
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_ctrl.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_ctrl.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_ctrl
+
+Top level modules:
+	or1200_ctrl
+
+} {} {}} or1200_fpu_pre_norm_addsub.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_pre_norm_addsub.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_pre_norm_addsub
+
+Top level modules:
+	or1200_fpu_pre_norm_addsub
+
+} {} {}} or1200_dc_ram.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_dc_ram.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dc_ram
+
+Top level modules:
+	or1200_dc_ram
+
+} {} {}} or1200_amultp2_32x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_amultp2_32x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_sprs.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_sprs.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_sprs
+
+Top level modules:
+	or1200_sprs
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_cpu.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_cpu.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_cpu
+
+Top level modules:
+	or1200_cpu
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_intfloat_conv.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_intfloat_conv.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_intfloat_conv
+
+Top level modules:
+	or1200_fpu_intfloat_conv
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_intfloat_conv_except.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_intfloat_conv_except.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_intfloat_conv_except
+
+Top level modules:
+	or1200_fpu_intfloat_conv_except
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_mul.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_mul.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_mul
+
+Top level modules:
+	or1200_fpu_mul
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_post_norm_intfloat_conv.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_post_norm_intfloat_conv.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_post_norm_intfloat_conv
+
+Top level modules:
+	or1200_fpu_post_norm_intfloat_conv
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_post_norm_mul.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_post_norm_mul.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_post_norm_mul
+
+Top level modules:
+	or1200_fpu_post_norm_mul
+
+} {} {}} or1200_freeze.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_freeze.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_freeze
+
+Top level modules:
+	or1200_freeze
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_1024x8.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_1024x8.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_1024x8
+
+Top level modules:
+	or1200_spram_1024x8
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_immu_tlb.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_immu_tlb.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_immu_tlb
+
+Top level modules:
+	or1200_immu_tlb
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_dc_tag.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_dc_tag.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dc_tag
+
+Top level modules:
+	or1200_dc_tag
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_cfgr.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_cfgr.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_cfgr
+
+Top level modules:
+	or1200_cfgr
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_arith.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_arith.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_arith
+
+Top level modules:
+	or1200_fpu_arith
+
+} {} {}} wb_conmax_msel.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/wb_conmax_msel.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_msel
+
+Top level modules:
+	wb_conmax_msel
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_top
+
+Top level modules:
+	or1200_top
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_ic_ram.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_ic_ram.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_ic_ram
+
+Top level modules:
+	or1200_ic_ram
+
+} {} {}} wb_conmax_master_if.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/wb_conmax_master_if.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_master_if
+
+Top level modules:
+	wb_conmax_master_if
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_rfram_generic.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_rfram_generic.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_rfram_generic
+
+Top level modules:
+	or1200_rfram_generic
+
+} {} {}} wb_conmax_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/wb_conmax_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_top
+
+Top level modules:
+	wb_conmax_top
+
+} {} {}} or1200_spram_32x24.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_32x24.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_32x24
+
+Top level modules:
+	or1200_spram_32x24
+
+} {} {}} or1200_sb.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_sb.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_sb
+
+Top level modules:
+	or1200_sb
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/ram.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/ram.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_tpram_32x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_tpram_32x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_tpram_32x32
+
+Top level modules:
+	or1200_tpram_32x32
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_tb.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_tb.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_tb
+
+Top level modules:
+	or1200_tb
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_1024x32_bw.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_1024x32_bw.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_1024x32_bw
+
+Top level modules:
+	or1200_spram_1024x32_bw
+
+} {} {}} or1200_wb_biu.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_wb_biu.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_wb_biu
+
+Top level modules:
+	or1200_wb_biu
+
+} {} {}} or1200_spram_64x22.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_64x22.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_64x22
+
+Top level modules:
+	or1200_spram_64x22
+
+} {} {}} or1200_fpu_fcmp.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_fcmp.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_fcmp
+
+Top level modules:
+	or1200_fpu_fcmp
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/wb_conmax_pri_dec.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/wb_conmax_pri_dec.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_pri_dec
+
+Top level modules:
+	wb_conmax_pri_dec
+
+} {} {}} or1200_xcv_ram32x8d.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_xcv_ram32x8d.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+
+} {} {}} or1200_iwb_biu.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_iwb_biu.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_iwb_biu
+
+Top level modules:
+	or1200_iwb_biu
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_except.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_except.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_except
+
+Top level modules:
+	or1200_except
+
+} {} {}} wb_conmax_rf.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/wb_conmax_rf.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_rf
+
+Top level modules:
+	wb_conmax_rf
+
+} {} {}} or1200_qmem_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_qmem_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_qmem_top
+
+Top level modules:
+	or1200_qmem_top
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/wb_conmax_pri_enc.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/wb_conmax_pri_enc.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_pri_enc
+
+Top level modules:
+	wb_conmax_pri_enc
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_256x21.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_256x21.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_256x21
+
+Top level modules:
+	or1200_spram_256x21
+
+} {} {}} or1200_operandmuxes.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_operandmuxes.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_operandmuxes
+
+Top level modules:
+	or1200_operandmuxes
+
+} {} {}} or1200_lsu.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_lsu.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_lsu
+
+Top level modules:
+	or1200_lsu
+
+} {} {}} or1200_dpram.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_dpram.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dpram
+
+Top level modules:
+	or1200_dpram
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_pic.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_pic.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_pic
+
+Top level modules:
+	or1200_pic
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/timescale.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/timescale.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_gmultp2_32x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_gmultp2_32x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_gmultp2_32x32
+
+Top level modules:
+	or1200_gmultp2_32x32
+
+} {} {}} or1200_spram_2048x32_bw.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_2048x32_bw.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_2048x32_bw
+
+Top level modules:
+	or1200_spram_2048x32_bw
+
+} {} {}} or1200_dpram_32x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_dpram_32x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dpram_32x32
+
+Top level modules:
+	or1200_dpram_32x32
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_dmmu_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_dmmu_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dmmu_top
+
+Top level modules:
+	or1200_dmmu_top
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_dpram_256x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_dpram_256x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dpram_256x32
+
+Top level modules:
+	or1200_dpram_256x32
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_genpc.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_genpc.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_genpc
+
+Top level modules:
+	or1200_genpc
+
+} {} {}} or1200_spram_1024x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_1024x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_1024x32
+
+Top level modules:
+	or1200_spram_1024x32
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_pre_norm_div.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_pre_norm_div.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_pre_norm_div
+
+Top level modules:
+	or1200_fpu_pre_norm_div
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_defines.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_defines.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+
+} {} {}} ram_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/ram_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module ram_top
+
+Top level modules:
+	ram_top
+
+} {} {}} or1200_reg2mem.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_reg2mem.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_reg2mem
+
+Top level modules:
+	or1200_reg2mem
+
+} {} {}} or1200_if.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_if.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_if
+
+Top level modules:
+	or1200_if
+
+} {} {}} wb_conmax_defines.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/wb_conmax_defines.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+
+} {} {}} or1200_tt.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_tt.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_tt
+
+Top level modules:
+	or1200_tt
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_2048x8.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_2048x8.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_2048x8
+
+Top level modules:
+	or1200_spram_2048x8
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_sb_fifo.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_sb_fifo.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_sb_fifo
+
+Top level modules:
+	or1200_sb_fifo
+
+} {} {}} or1200_spram_64x14.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_64x14.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_64x14
+
+Top level modules:
+	or1200_spram_64x14
+
+} {} {}} or1200_ic_fsm.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_ic_fsm.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_ic_fsm
+
+Top level modules:
+	or1200_ic_fsm
+
+} {} {}} or1200_fpu_pre_norm_mul.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_pre_norm_mul.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_pre_norm_mul
+
+Top level modules:
+	or1200_fpu_pre_norm_mul
+
+} {} {}} or1200_du.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_du.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_du
+
+Top level modules:
+	or1200_du
+
+} {} {}} or1200_dc_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_dc_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dc_top
+
+Top level modules:
+	or1200_dc_top
+
+} {} {}} or1200_spram_128x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_128x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_128x32
+
+Top level modules:
+	or1200_spram_128x32
+
+} {} {}} or1200_immu_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_immu_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_immu_top
+
+Top level modules:
+	or1200_immu_top
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_64x24.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_64x24.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_64x24
+
+Top level modules:
+	or1200_spram_64x24
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram
+
+Top level modules:
+	or1200_spram
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/wb_conmax_slave_if.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/wb_conmax_slave_if.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_slave_if
+
+Top level modules:
+	wb_conmax_slave_if
+
+} {} {}} or1200_spram_512x20.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_512x20.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_512x20
+
+Top level modules:
+	or1200_spram_512x20
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_dmmu_tlb.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_dmmu_tlb.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dmmu_tlb
+
+Top level modules:
+	or1200_dmmu_tlb
+
+} {} {}} or1200_spram_2048x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_2048x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_2048x32
+
+Top level modules:
+	or1200_spram_2048x32
+
+} {} {}} or1200_ctrl.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_ctrl.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_ctrl
+
+Top level modules:
+	or1200_ctrl
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_addsub.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_addsub.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_addsub
+
+Top level modules:
+	or1200_fpu_addsub
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_div.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_div.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_div
+
+Top level modules:
+	or1200_fpu_div
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_post_norm_addsub.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_post_norm_addsub.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_post_norm_addsub
+
+Top level modules:
+	or1200_fpu_post_norm_addsub
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_post_norm_div.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_fpu_post_norm_div.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_post_norm_div
+
+Top level modules:
+	or1200_fpu_post_norm_div
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_ic_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_ic_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_ic_top
+
+Top level modules:
+	or1200_ic_top
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/wb_conmax_arb.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/wb_conmax_arb.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_arb
+
+Top level modules:
+	wb_conmax_arb
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_spram_32_bw.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_spram_32_bw.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_32_bw
+
+Top level modules:
+	or1200_spram_32_bw
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_mem2reg.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_mem2reg.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_mem2reg
+
+Top level modules:
+	or1200_mem2reg
+
+} {} {}} or1200_sprs.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_sprs.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_sprs
+
+Top level modules:
+	or1200_sprs
+
+} {} {}} or1200_fpu_post_norm_mul.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_post_norm_mul.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_post_norm_mul
+
+Top level modules:
+	or1200_fpu_post_norm_mul
+
+} {} {}} or1200_fpu_post_norm_intfloat_conv.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_post_norm_intfloat_conv.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_post_norm_intfloat_conv
+
+Top level modules:
+	or1200_fpu_post_norm_intfloat_conv
+
+} {} {}} or1200_fpu_mul.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_mul.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_mul
+
+Top level modules:
+	or1200_fpu_mul
+
+} {} {}} or1200_fpu_intfloat_conv_except.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_intfloat_conv_except.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_intfloat_conv_except
+
+Top level modules:
+	or1200_fpu_intfloat_conv_except
+
+} {} {}} or1200_fpu_intfloat_conv.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_intfloat_conv.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_intfloat_conv
+
+Top level modules:
+	or1200_fpu_intfloat_conv
+
+} {} {}} or1200_cpu.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_cpu.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_cpu
+
+Top level modules:
+	or1200_cpu
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_rf.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_rf.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_rf
+
+Top level modules:
+	or1200_rf
+
+} {} {}} or1200_spram_1024x8.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_1024x8.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_1024x8
+
+Top level modules:
+	or1200_spram_1024x8
+
+} {} {}} or1200_immu_tlb.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_immu_tlb.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_immu_tlb
+
+Top level modules:
+	or1200_immu_tlb
+
+} {} {}} or1200_fpu_arith.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_fpu_arith.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_fpu_arith
+
+Top level modules:
+	or1200_fpu_arith
+
+} {} {}} or1200_dc_tag.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_dc_tag.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dc_tag
+
+Top level modules:
+	or1200_dc_tag
+
+} {} {}} or1200_cfgr.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_cfgr.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_cfgr
+
+Top level modules:
+	or1200_cfgr
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_alu.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_alu.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_alu
+
+Top level modules:
+	or1200_alu
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_mult_mac.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_mult_mac.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_mult_mac
+
+Top level modules:
+	or1200_mult_mac
+
+} {} {}} or1200_top.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_top.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_top
+
+Top level modules:
+	or1200_top
+
+} {} {}} or1200_ic_ram.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_ic_ram.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_ic_ram
+
+Top level modules:
+	or1200_ic_ram
+
+} {} {}} or1200_rfram_generic.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_rfram_generic.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_rfram_generic
+
+Top level modules:
+	or1200_rfram_generic
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_dc_fsm.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_dc_fsm.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_dc_fsm
+
+Top level modules:
+	or1200_dc_fsm
+
+} {} {}} ram.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/ram.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} or1200_tpram_32x32.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_tpram_32x32.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_tpram_32x32
+
+Top level modules:
+	or1200_tpram_32x32
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_sopc.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_sopc.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_sopc
+
+Top level modules:
+	or1200_sopc
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_pm.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_pm.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_pm
+
+Top level modules:
+	or1200_pm
+
+} {} {}} or1200_tb.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_tb.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_tb
+
+Top level modules:
+	or1200_tb
+
+} {} {}} or1200_spram_1024x32_bw.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/or1200_spram_1024x32_bw.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_spram_1024x32_bw
+
+Top level modules:
+	or1200_spram_1024x32_bw
+
+} {} {}} F:/VerilogHDL/BOOK/Chapter11/or1200_ic_tag.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Chapter11/or1200_ic_tag.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module or1200_ic_tag
+
+Top level modules:
+	or1200_ic_tag
+
+} {} {}} wb_conmax_pri_dec.v {1 {vlog -work min_or1200_sopc -nocovercells F:/VerilogHDL/BOOK/Project/Chapter11/wb_conmax_pri_dec.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module wb_conmax_pri_dec
+
+Top level modules:
+	wb_conmax_pri_dec
+
+} {} {}}

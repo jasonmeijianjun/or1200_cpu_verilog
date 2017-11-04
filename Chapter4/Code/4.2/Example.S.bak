@@ -1,0 +1,33 @@
+        .section .text,"ax"
+	.org 0x100
+.global _start
+_start:
+      l.andi r0,r0,0
+      
+      l.extwz r1,r0
+      l.extwz r2,r0
+      l.extwz r3,r0
+      l.extwz r4,r0
+      l.extwz r5,r0
+
+      l.movhi r1,0xf041
+      l.ori r1,r0,0xd109           #r1=0xf041d109
+      
+      l.rori r1,r1,4             #r1=0x9f041d10
+      
+      l.ori r2,r0,8              #r2=8
+      l.sll r1,r1,r2             #r1=0x041d1000
+      l.slli r1,r1,8             #r1=0x1d100000
+      
+      l.andi r1,r1,0             #r1=0
+      
+      l.movhi r1,0xf041
+      l.ori r1,r0,0xd109         #r1=0xf041d109
+      l.sra r1,r1,r2             #r1=0xfff041d1
+      
+      l.movhi r1,r1,0x0f01       #r1=0x0f010000
+      l.srai  r1,r1,4            #r1=0x00f01000
+      
+      l.movhi r1,r1,0xf0f0       #r1=0xf0f00000
+      l.srl  r1,r1,r2            #r1=0x00f0f000
+      l.srli r1,r1,4             #r1=0x000f0f00

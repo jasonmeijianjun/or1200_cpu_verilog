@@ -1,0 +1,136 @@
+# Reading C:/altera/10.1sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile F:/VerilogHDL/BOOK/Project/Chapter6/min_or1200.mpf 
+# Loading project min_or1200
+# Compile of or1200_alu.v was successful.
+# Compile of or1200_amultp2_32x32.v was successful.
+# Compile of or1200_cfgr.v was successful.
+# Compile of or1200_cpu.v was successful.
+# Compile of or1200_ctrl.v was successful.
+# Compile of or1200_dc_fsm.v was successful.
+# Compile of or1200_dc_ram.v was successful.
+# Compile of or1200_dc_tag.v was successful.
+# Compile of or1200_dc_top.v was successful.
+# Compile of or1200_defines.v was successful.
+# Compile of or1200_dmmu_tlb.v was successful.
+# Compile of or1200_dmmu_top.v was successful.
+# Compile of or1200_dpram.v was successful.
+# Compile of or1200_dpram_32x32.v was successful.
+# Compile of or1200_dpram_256x32.v was successful.
+# Compile of or1200_du.v was successful.
+# Compile of or1200_except.v was successful.
+# Compile of or1200_fpu.v was successful.
+# Compile of or1200_fpu_addsub.v was successful.
+# Compile of or1200_fpu_arith.v was successful.
+# Compile of or1200_fpu_div.v was successful.
+# Compile of or1200_fpu_fcmp.v was successful.
+# Compile of or1200_fpu_intfloat_conv.v was successful.
+# Compile of or1200_fpu_intfloat_conv_except.v was successful.
+# Compile of or1200_fpu_mul.v was successful.
+# Compile of or1200_fpu_post_norm_addsub.v was successful.
+# Compile of or1200_fpu_post_norm_div.v was successful.
+# Compile of or1200_fpu_post_norm_intfloat_conv.v was successful.
+# Compile of or1200_fpu_post_norm_mul.v was successful.
+# Compile of or1200_fpu_pre_norm_addsub.v was successful.
+# Compile of or1200_fpu_pre_norm_div.v was successful.
+# Compile of or1200_fpu_pre_norm_mul.v was successful.
+# Compile of or1200_freeze.v was successful.
+# Compile of or1200_genpc.v was successful.
+# Compile of or1200_gmultp2_32x32.v was successful.
+# Compile of or1200_ic_fsm.v was successful.
+# Compile of or1200_ic_ram.v was successful.
+# Compile of or1200_ic_tag.v was successful.
+# Compile of or1200_ic_top.v was successful.
+# Compile of or1200_if.v was successful.
+# Compile of or1200_immu_tlb.v was successful.
+# Compile of or1200_immu_top.v was successful.
+# Compile of or1200_iwb_biu.v was successful.
+# Compile of or1200_lsu.v was successful.
+# Compile of or1200_mem2reg.v was successful.
+# Compile of or1200_mult_mac.v was successful.
+# Compile of or1200_operandmuxes.v was successful.
+# Compile of or1200_pic.v was successful.
+# Compile of or1200_pm.v was successful.
+# Compile of or1200_qmem_top.v was successful.
+# Compile of or1200_reg2mem.v was successful.
+# Compile of or1200_rf.v was successful.
+# Compile of or1200_rfram_generic.v was successful.
+# Compile of or1200_sb.v was successful.
+# Compile of or1200_sb_fifo.v was successful.
+# Compile of or1200_spram.v was successful.
+# Compile of or1200_spram_32_bw.v was successful.
+# Compile of or1200_spram_32x24.v was successful.
+# Compile of or1200_spram_64x14.v was successful.
+# Compile of or1200_spram_64x22.v was successful.
+# Compile of or1200_spram_64x24.v was successful.
+# Compile of or1200_spram_128x32.v was successful.
+# Compile of or1200_spram_256x21.v was successful.
+# Compile of or1200_spram_512x20.v was successful.
+# Compile of or1200_spram_1024x8.v was successful.
+# Compile of or1200_spram_1024x32.v was successful.
+# Compile of or1200_spram_1024x32_bw.v was successful.
+# Compile of or1200_spram_2048x8.v was successful.
+# Compile of or1200_spram_2048x32.v was successful.
+# Compile of or1200_spram_2048x32_bw.v was successful.
+# Compile of or1200_sprs.v was successful.
+# Compile of or1200_top.v was successful.
+# Compile of or1200_tpram_32x32.v was successful.
+# Compile of or1200_tt.v was successful.
+# Compile of or1200_wb_biu.v was successful.
+# Compile of or1200_wbmux.v was successful.
+# Compile of or1200_xcv_ram32x8d.v was successful.
+# Compile of timescale.v was successful.
+# Compile of or1200_tb.v was successful.
+# 79 compiles, 0 failed with no errors. 
+vsim -gui min_or1200.or1200_tb
+# vsim -gui min_or1200.or1200_tb 
+# Loading min_or1200.or1200_tb
+# Loading min_or1200.or1200_top
+# Loading min_or1200.or1200_wb_biu
+# Loading min_or1200.or1200_immu_top
+# Loading min_or1200.or1200_ic_top
+# Loading min_or1200.or1200_ic_fsm
+# Loading min_or1200.or1200_ic_ram
+# Loading min_or1200.or1200_ic_tag
+# Loading min_or1200.or1200_cpu
+# Loading min_or1200.or1200_genpc
+# Loading min_or1200.or1200_if
+# Loading min_or1200.or1200_ctrl
+# Loading min_or1200.or1200_rf
+# Loading min_or1200.or1200_dpram
+# Loading min_or1200.or1200_operandmuxes
+# Loading min_or1200.or1200_alu
+# Loading min_or1200.or1200_fpu
+# Loading min_or1200.or1200_mult_mac
+# Loading min_or1200.or1200_gmultp2_32x32
+# Loading min_or1200.or1200_sprs
+# Loading min_or1200.or1200_lsu
+# Loading min_or1200.or1200_mem2reg
+# Loading min_or1200.or1200_reg2mem
+# Loading min_or1200.or1200_wbmux
+# Loading min_or1200.or1200_freeze
+# Loading min_or1200.or1200_except
+# Loading min_or1200.or1200_cfgr
+# Loading min_or1200.or1200_dmmu_top
+# Loading min_or1200.or1200_dc_top
+# Loading min_or1200.or1200_qmem_top
+# Loading min_or1200.or1200_spram_2048x32
+# Loading min_or1200.or1200_sb
+# Loading min_or1200.or1200_du
+# Loading min_or1200.or1200_pic
+# Loading min_or1200.or1200_tt
+# Loading min_or1200.or1200_pm
+# ** Warning: (vsim-3017) F:/VerilogHDL/BOOK/Project/Chapter6/or1200_tb.v(58): [TFMPC] - Too few port connections. Expected 55, found 50.
+#         Region: /or1200_tb/or1200_top_inst
+# ** Warning: (vsim-3015) F:/VerilogHDL/BOOK/Project/Chapter6/or1200_tb.v(58): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 'pm_cpustall_i'. The port definition is at: F:/VerilogHDL/BOOK/Project/Chapter6/or1200_top.v(89).
+#         Region: /or1200_tb/or1200_top_inst
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter6/or1200_tb.v(58): [TFMPC] - Missing connection for port 'iwb_cti_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter6/or1200_tb.v(58): [TFMPC] - Missing connection for port 'iwb_bte_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter6/or1200_tb.v(58): [TFMPC] - Missing connection for port 'dwb_cti_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter6/or1200_tb.v(58): [TFMPC] - Missing connection for port 'dwb_bte_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter6/or1200_tb.v(58): [TFMPC] - Missing connection for port 'sig_tick'.
+do F:/VerilogHDL/BOOK/Project/Chapter6/wave.do
+run -all
+# Break in Module or1200_tb at F:/VerilogHDL/BOOK/Project/Chapter6/or1200_tb.v line 19
+add wave \
+{sim:/or1200_tb/or1200_top_inst/or1200_cpu/or1200_rf/rf_b/mem[3] } 
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf F:/VerilogHDL/BOOK/Project/Chapter6/wave.do

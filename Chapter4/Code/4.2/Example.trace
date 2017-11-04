@@ -1,0 +1,24 @@
+Seeding random generator with value 0x6cc22dcc
+Or1ksim 2011-08-15
+Building automata... done, num uncovered: 0/213.
+Parsing operands data... done.
+Resetting PIC.
+loadcode: filename Example.or32  startaddr=00000000  virtphy_transl=00000000
+Not COFF file format
+ELF type: 0x0002
+ELF machine: 0x005c
+ELF version: 0x00000001
+ELF sec = 5
+Section: .text, vaddr: 0x00000000, paddr: 0x0 offset: 0x00002000, size: 0x00000124
+S 00000100: a4000000 l.andi  r0,r0,0         r0         = 00000000  flag: 0
+S 00000104: 18808000 l.movhi r4,0x8000       r4         = 80000000  flag: 0
+S 00000108: 18400000 l.movhi r2,0            r2         = 00000000  flag: 0
+S 0000010c: a8421234 l.ori   r2,r2,0x1234    r2         = 00001234  flag: 0
+S 00000110: a8621234 l.ori   r3,r2,0x1234    r3         = 00001234  flag: 0
+S 00000114: e0821800 l.add   r4,r2,r3        r4         = 00002468  flag: 0
+S 00000118: bc041234 l.sfeqi r4,0x1234                              flag: 0
+S 0000011c: bc021234 l.sfeqi r2,0x1234                              flag: 1
+exit(4660)
+@reset : cycles 0, insn #0
+@exit  : cycles 8, insn #9
+ diff  : cycles 8, insn #9

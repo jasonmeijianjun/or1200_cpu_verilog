@@ -1,0 +1,55 @@
+# Reading C:/altera/10.1sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile F:/VerilogHDL/BOOK/Project/Chapter2/min_or1200.mpf 
+# Loading project min_or1200
+vsim -gui min_or1200.or1200_tb
+# vsim -gui min_or1200.or1200_tb 
+# Loading min_or1200.or1200_tb
+# Loading min_or1200.or1200_top
+# Loading min_or1200.or1200_wb_biu
+# Loading min_or1200.or1200_immu_top
+# Loading min_or1200.or1200_ic_top
+# Loading min_or1200.or1200_ic_fsm
+# Loading min_or1200.or1200_ic_ram
+# Loading min_or1200.or1200_ic_tag
+# Loading min_or1200.or1200_cpu
+# Loading min_or1200.or1200_genpc
+# Loading min_or1200.or1200_if
+# Loading min_or1200.or1200_ctrl
+# Loading min_or1200.or1200_rf
+# Loading min_or1200.or1200_dpram
+# Loading min_or1200.or1200_operandmuxes
+# Loading min_or1200.or1200_alu
+# Loading min_or1200.or1200_fpu
+# Loading min_or1200.or1200_mult_mac
+# Loading min_or1200.or1200_gmultp2_32x32
+# Loading min_or1200.or1200_sprs
+# Loading min_or1200.or1200_lsu
+# Loading min_or1200.or1200_mem2reg
+# Loading min_or1200.or1200_reg2mem
+# Loading min_or1200.or1200_wbmux
+# Loading min_or1200.or1200_freeze
+# Loading min_or1200.or1200_except
+# Loading min_or1200.or1200_cfgr
+# Loading min_or1200.or1200_dmmu_top
+# Loading min_or1200.or1200_dc_top
+# Loading min_or1200.or1200_qmem_top
+# Loading min_or1200.or1200_spram_2048x32
+# Loading min_or1200.or1200_sb
+# Loading min_or1200.or1200_du
+# Loading min_or1200.or1200_pic
+# Loading min_or1200.or1200_tt
+# Loading min_or1200.or1200_pm
+# ** Warning: (vsim-3017) F:/VerilogHDL/BOOK/Chapter2/or1200_tb.v(58): [TFMPC] - Too few port connections. Expected 55, found 50.
+#         Region: /or1200_tb/or1200_top_inst
+# ** Warning: (vsim-3015) F:/VerilogHDL/BOOK/Chapter2/or1200_tb.v(58): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 'pm_cpustall_i'. The port definition is at: F:/VerilogHDL/BOOK/Chapter2/or1200_top.v(89).
+#         Region: /or1200_tb/or1200_top_inst
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Chapter2/or1200_tb.v(58): [TFMPC] - Missing connection for port 'iwb_cti_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Chapter2/or1200_tb.v(58): [TFMPC] - Missing connection for port 'iwb_bte_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Chapter2/or1200_tb.v(58): [TFMPC] - Missing connection for port 'dwb_cti_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Chapter2/or1200_tb.v(58): [TFMPC] - Missing connection for port 'dwb_bte_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Chapter2/or1200_tb.v(58): [TFMPC] - Missing connection for port 'sig_tick'.
+do F:/VerilogHDL/BOOK/Project/Chapter2/wave.do
+run -all
+# Break in Module or1200_tb at F:/VerilogHDL/BOOK/Chapter2/or1200_tb.v line 19
+# Error opening F:/VerilogHDL/BOOK/Chapter2/or1200_tb.v
+# Path name 'F:/VerilogHDL/BOOK/Chapter2/or1200_tb.v' doesn't exist.

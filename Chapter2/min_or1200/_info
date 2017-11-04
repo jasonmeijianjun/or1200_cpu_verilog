@@ -1,0 +1,1221 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\10.1sp1
+vor1200_alu
+Z1 !s100 7CP>I_liI]=?LHSk_@ODo2
+Z2 I[ZKoX@S4PF64eh_dAz;jI3
+Z3 VnJ9`cldMKi_SD@::;M^6@3
+Z4 dF:\VerilogHDL\BOOK\Chapter2
+Z5 w1345805969
+Z6 8F:/VerilogHDL/BOOK/Chapter2/or1200_alu.v
+Z7 FF:/VerilogHDL/BOOK/Chapter2/or1200_alu.v
+L0 54
+Z8 OV;L;6.6d;45
+r1
+31
+Z9 !s102 -nocovercells
+Z10 o-work min_or1200 -nocovercells -O0
+!s85 0
+!s101 -O0
+vor1200_cfgr
+Z11 !s100 d_MV6;L=Lgfh:QD?b_TWa0
+Z12 I_`o<j;Db9h?nPJ0HY?LeT2
+Z13 VWVajXcKaQlhKNAHf^IK0B0
+R4
+R5
+Z14 8F:/VerilogHDL/BOOK/Chapter2/or1200_cfgr.v
+Z15 FF:/VerilogHDL/BOOK/Chapter2/or1200_cfgr.v
+L0 54
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_cpu
+Z16 !s100 RS0[l3bQ7B2f1cO5KSHPe0
+Z17 I54`AcBCS573UgjC93kM[?1
+Z18 VI^k7K[VG7NOKRJojQEMl^1
+R4
+R5
+Z19 8F:/VerilogHDL/BOOK/Chapter2/or1200_cpu.v
+Z20 FF:/VerilogHDL/BOOK/Chapter2/or1200_cpu.v
+L0 55
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_ctrl
+Z21 IkZ@QS02DVQC9d254;1?^g2
+Z22 V[KUzShfHR[3@HhC;<e9VB2
+R4
+Z23 w1355239492
+Z24 8F:/VerilogHDL/BOOK/Chapter2/or1200_ctrl.v
+Z25 FF:/VerilogHDL/BOOK/Chapter2/or1200_ctrl.v
+L0 55
+R8
+r1
+31
+R9
+R10
+Z26 !s100 e::^?SUY=manSS3ggzUGf2
+!s85 0
+!s101 -O0
+vor1200_dc_fsm
+Z27 !s100 Q8T<WWFDI;jKgSICf>l642
+Z28 IEDR>H@=JB6_E^:832@Uj72
+Z29 Vf<9Eh>PRRM:36ezNVjLRz1
+R4
+R5
+Z30 8F:/VerilogHDL/BOOK/Chapter2/or1200_dc_fsm.v
+Z31 FF:/VerilogHDL/BOOK/Chapter2/or1200_dc_fsm.v
+L0 71
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_dc_ram
+Z32 !s100 a_`h3z3^3i96X4DDB8azR2
+Z33 I6IHK7M=P6NDH@9o3FcV;A2
+Z34 Vm4N1JOZ;YVS09daG_1Wga2
+R4
+Z35 w1345805971
+Z36 8F:/VerilogHDL/BOOK/Chapter2/or1200_dc_ram.v
+Z37 FF:/VerilogHDL/BOOK/Chapter2/or1200_dc_ram.v
+L0 56
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_dc_tag
+Z38 !s100 fCR1Q`<7cALMGaU^19F?A2
+Z39 IFQlfAZZ1Akd0nNml6Y>Xb2
+Z40 VzZkXBR;C4g1o]<6a5TDT91
+R4
+R35
+Z41 8F:/VerilogHDL/BOOK/Chapter2/or1200_dc_tag.v
+Z42 FF:/VerilogHDL/BOOK/Chapter2/or1200_dc_tag.v
+L0 55
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_dc_top
+Z43 !s100 HSX1]IHY?2fZnD@[cI?PU3
+Z44 I14EHmdnF=iCoG1i1ZCVb40
+Z45 VY7gzbEifO3Tcga0YD4I^d2
+R4
+R35
+Z46 8F:/VerilogHDL/BOOK/Chapter2/or1200_dc_top.v
+Z47 FF:/VerilogHDL/BOOK/Chapter2/or1200_dc_top.v
+L0 60
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_dmmu_tlb
+Z48 !s100 neTzE77em2@1RgnlIE_P]0
+Z49 IU=a9?zcCPBZ9e^hW<ja3E1
+Z50 VcE2;eYL@J8GSnB1fIMVCY0
+R4
+Z51 w1345805970
+Z52 8F:/VerilogHDL/BOOK/Chapter2/or1200_dmmu_tlb.v
+Z53 FF:/VerilogHDL/BOOK/Chapter2/or1200_dmmu_tlb.v
+L0 60
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_dmmu_top
+Z54 !s100 _b>29bJXb8AAVa_S619Cj2
+Z55 InQTF=?h?0c5ijZ;TbkjW51
+Z56 V_[kjVEB^V]JMiEVIJ1do@2
+R4
+Z57 w1345805972
+Z58 8F:/VerilogHDL/BOOK/Chapter2/or1200_dmmu_top.v
+Z59 FF:/VerilogHDL/BOOK/Chapter2/or1200_dmmu_top.v
+L0 59
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_dpram
+Z60 !s100 [4i[`DOmA<F?4PBaI77Zi1
+Z61 ICV?D2XJ3jSziRZ>;@o@bc1
+Z62 VlVO7dOUd9?kY@>O0Pa0Fe1
+R4
+R57
+Z63 8F:/VerilogHDL/BOOK/Chapter2/or1200_dpram.v
+Z64 FF:/VerilogHDL/BOOK/Chapter2/or1200_dpram.v
+L0 60
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_dpram_256x32
+Z65 !s100 4@26hB:zghId`@CibXh[P1
+Z66 IAS``T32;dZMgi;4nD_``31
+Z67 VkFPI9<Q?L]QzRiLin<:T^2
+R4
+R35
+Z68 8F:/VerilogHDL/BOOK/Chapter2/or1200_dpram_256x32.v
+Z69 FF:/VerilogHDL/BOOK/Chapter2/or1200_dpram_256x32.v
+L0 70
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_dpram_32x32
+Z70 !s100 2[JL_Ln?NnUSln<N@_1`P3
+Z71 IOW=g433YSGzc:eo@:A>Qn2
+Z72 VoZikRH_RLC05gGn^3ahhA0
+R4
+R5
+Z73 8F:/VerilogHDL/BOOK/Chapter2/or1200_dpram_32x32.v
+Z74 FF:/VerilogHDL/BOOK/Chapter2/or1200_dpram_32x32.v
+Z75 L0 134
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_du
+Z76 !s100 4LemY:^^I1XdA1BmC^CYG1
+Z77 IVQ:e6dWND:NW]YB6cbL[D1
+Z78 Vb5D>]:b]XnS7:11HB38<e3
+R4
+R51
+Z79 8F:/VerilogHDL/BOOK/Chapter2/or1200_du.v
+Z80 FF:/VerilogHDL/BOOK/Chapter2/or1200_du.v
+L0 59
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_except
+Z81 !s100 ZCCdfBF:ZcX<BAALRRb=C1
+Z82 ICk1I_h0DQdHGKJf4h]]V01
+Z83 V1I[>3?hXDLTz[3oh@2_3R2
+R4
+R57
+Z84 8F:/VerilogHDL/BOOK/Chapter2/or1200_except.v
+Z85 FF:/VerilogHDL/BOOK/Chapter2/or1200_except.v
+L0 67
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu
+Z86 !s100 2SV3c;fbzYN3ibV]:[ia<2
+Z87 Im<nGG=2MNg[o_^;jLQ7=`1
+Z88 V5ZL`VQgzG4d5eBiS1[n7o1
+R4
+R5
+Z89 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu.v
+Z90 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu.v
+L0 51
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_addsub
+Z91 !s100 aglmPchcG6K2EkNL`HbAn3
+Z92 I7AdJ^D_5OWMf=nYSIeEX22
+Z93 V5:2Ye7DeClo:G78m:d5;E1
+R4
+R57
+Z94 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_addsub.v
+Z95 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_addsub.v
+L0 45
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_arith
+Z96 !s100 bk]Phf>UcO:HPQ2jccVZg1
+Z97 Ii15XdCMad4]Xg]3aL8Mf?1
+Z98 VefJi]?B_T<b>z8S5DFA_f3
+R4
+R51
+Z99 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_arith.v
+Z100 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_arith.v
+L0 44
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_div
+Z101 !s100 a374XnWCa8ZBPmS>EZBQ:2
+Z102 IjAkn7`14QUGR;U_hQ8VdS3
+Z103 VDH_i<3NGd_6WJ6GI]E=BA3
+R4
+R57
+Z104 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_div.v
+Z105 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_div.v
+L0 44
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_fcmp
+Z106 !s100 9hX_6cb3:gl=3?<OkjX_X2
+Z107 I;_^RgbZHHGnUUMD3d1QC<2
+Z108 V=7ZGLaTN]W1HZzNeN_G=00
+R4
+R51
+Z109 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_fcmp.v
+Z110 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_fcmp.v
+L0 38
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_intfloat_conv
+Z111 !s100 46jG0`D3VWH`=FAKQCXIJ3
+Z112 IXGU5Bie3eZOi^oe=^_15X3
+Z113 V<7zVT^GcQCIWlF?zJ=ENc0
+R4
+Z114 w1345805968
+Z115 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_intfloat_conv.v
+Z116 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_intfloat_conv.v
+L0 68
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_intfloat_conv_except
+Z117 !s100 CVE1^lFO62CmCBJN`>a@D2
+Z118 I^k^IaS`20>@?m=f4_2EhV2
+Z119 V=:N3=DfeONASbhB?_AZcb1
+R4
+R35
+Z120 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_intfloat_conv_except.v
+Z121 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_intfloat_conv_except.v
+L0 40
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_mul
+Z122 !s100 O5Xa77kmzni>0MSSHg>B42
+Z123 IQS@C4Aggm=<WhP[GFVEnm0
+Z124 VK46gC]2LPme]NNfjFXBW01
+R4
+R57
+Z125 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_mul.v
+Z126 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_mul.v
+L0 44
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_post_norm_addsub
+Z127 !s100 fX9j9SW=V;ARjl?JSogl03
+Z128 I`e9G@6MU1@oOgGK82S0M81
+Z129 VYG8=TM6m6hJRTD6F[zO9@0
+R4
+R51
+Z130 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_post_norm_addsub.v
+Z131 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_post_norm_addsub.v
+L0 44
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_post_norm_div
+Z132 !s100 ObmhUV5l6KD<_=ElgLc_k1
+Z133 I3dL]RKV1Hbm?R6I2JVjF_0
+Z134 VGVc<e`fJCObC@VMzniFNd3
+R4
+R51
+Z135 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_post_norm_div.v
+Z136 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_post_norm_div.v
+L0 45
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_post_norm_intfloat_conv
+Z137 !s100 3OfBM[b2]L=0:f^]Ef:7J3
+Z138 I?c4hSZR7j0EbADghm:NOj1
+Z139 VO7XV?iCUnUOWFLA>kZ;BI3
+R4
+R51
+Z140 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_post_norm_intfloat_conv.v
+Z141 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_post_norm_intfloat_conv.v
+L0 40
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_post_norm_mul
+Z142 !s100 XWJBZ_LdUSQNcNa=BSPP61
+Z143 I63al4k=IDKkVGk]VG717R3
+Z144 VcV_M6;VFOERGTU4d031cT0
+R4
+R51
+Z145 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_post_norm_mul.v
+Z146 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_post_norm_mul.v
+L0 44
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_pre_norm_addsub
+Z147 !s100 3?1<Qz5bYVakJVNL6<7831
+Z148 IhE:_R6oO8OZ8R68n1mod`3
+Z149 VBl^?N`HX1hG^U^P;H@@Q]0
+R4
+R57
+Z150 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_pre_norm_addsub.v
+Z151 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_pre_norm_addsub.v
+L0 44
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_pre_norm_div
+Z152 !s100 QED<L^Y@YaGZFCPb<0bOh1
+Z153 I7JlRJD?T1ni:<mU2JTC501
+Z154 VJlSFVH`VF;k5gSobCoAGB3
+R4
+R5
+Z155 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_pre_norm_div.v
+Z156 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_pre_norm_div.v
+L0 44
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_fpu_pre_norm_mul
+Z157 !s100 1EL;Mb4Z[z<>EXl@Ed`4G1
+Z158 IS^;=S^T@OnG0TRo32IPWK3
+Z159 VBR8Gl1E:hIfGTo^zW3lQE3
+R4
+R5
+Z160 8F:/VerilogHDL/BOOK/Chapter2/or1200_fpu_pre_norm_mul.v
+Z161 FF:/VerilogHDL/BOOK/Chapter2/or1200_fpu_pre_norm_mul.v
+L0 44
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_freeze
+Z162 !s100 a@YaR2nl8R74jg<o6hnL20
+Z163 I[YaTcSTPTCX3ePj66ZTUl0
+Z164 Vejod5RaNigPU6FGZkkRSV2
+R4
+R114
+Z165 8F:/VerilogHDL/BOOK/Chapter2/or1200_freeze.v
+Z166 FF:/VerilogHDL/BOOK/Chapter2/or1200_freeze.v
+L0 64
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_genpc
+Z167 !s100 0CHn;]?G8<EBY:3N[G9Ld3
+Z168 IZPXPm>N<o3fTK[P8TbmSC3
+Z169 V1e@[V?JJl;B84bJZKOgaO3
+R4
+R57
+Z170 8F:/VerilogHDL/BOOK/Chapter2/or1200_genpc.v
+Z171 FF:/VerilogHDL/BOOK/Chapter2/or1200_genpc.v
+L0 54
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_gmultp2_32x32
+Z172 !s100 =4ZPX>6;W2iYJ>nlRjhXj3
+Z173 IQCln>TkO]:`UdF4VWmdIc1
+Z174 VzFYd]dHB4JM4S8W50oG131
+R4
+R35
+Z175 8F:/VerilogHDL/BOOK/Chapter2/or1200_gmultp2_32x32.v
+Z176 FF:/VerilogHDL/BOOK/Chapter2/or1200_gmultp2_32x32.v
+L0 65
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_ic_fsm
+Z177 !s100 kz;_c?2c<`?ad[dlc>1C?2
+Z178 IMGmgzhWWLV9MYK`X7K[HK0
+Z179 VNbz1ea[elZhL`g55?ER``2
+R4
+R57
+Z180 8F:/VerilogHDL/BOOK/Chapter2/or1200_ic_fsm.v
+Z181 FF:/VerilogHDL/BOOK/Chapter2/or1200_ic_fsm.v
+L0 64
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_ic_ram
+Z182 !s100 4[naLUkZEnab@cL4FzzA00
+Z183 Ij:W;B9V?f<ChEPDVZ@DZi0
+Z184 V<GLEjl2WB3AA`o5BWT]:@3
+R4
+R51
+Z185 8F:/VerilogHDL/BOOK/Chapter2/or1200_ic_ram.v
+Z186 FF:/VerilogHDL/BOOK/Chapter2/or1200_ic_ram.v
+L0 57
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_ic_tag
+Z187 !s100 BNkI^@@DVkih]hY9@Q`iO2
+Z188 IR^EEo07DZ1bWJn]ES8];C2
+Z189 VIPDPhl@7oCLj0RN`>2LHW0
+R4
+R51
+Z190 8F:/VerilogHDL/BOOK/Chapter2/or1200_ic_tag.v
+Z191 FF:/VerilogHDL/BOOK/Chapter2/or1200_ic_tag.v
+L0 57
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_ic_top
+Z192 !s100 eJgQm20f1=e_56znZmnQ63
+Z193 Io^z`J2P:=4TZA[z]RYaH^3
+Z194 V[3jkfWQiIO_:kFW_FcHnb1
+R4
+R51
+Z195 8F:/VerilogHDL/BOOK/Chapter2/or1200_ic_top.v
+Z196 FF:/VerilogHDL/BOOK/Chapter2/or1200_ic_top.v
+L0 56
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_if
+Z197 !s100 JEmLSCoc_bWTgP^SWQ63S2
+Z198 Ifeb;;;aTH2nU9e2aCg`Fa1
+Z199 VOf8AcfPbP;Y:hgf]=FJfG3
+R4
+R35
+Z200 8F:/VerilogHDL/BOOK/Chapter2/or1200_if.v
+Z201 FF:/VerilogHDL/BOOK/Chapter2/or1200_if.v
+L0 54
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_immu_tlb
+Z202 !s100 k_OVz]THh6VnjHLc7HS7X2
+Z203 ICUI4OMe9BG8H:cg1O7nRS2
+Z204 VkFbVEO_UMO7LQNfn_4X>e3
+R4
+R35
+Z205 8F:/VerilogHDL/BOOK/Chapter2/or1200_immu_tlb.v
+Z206 FF:/VerilogHDL/BOOK/Chapter2/or1200_immu_tlb.v
+L0 98
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_immu_top
+Z207 !s100 5P7__cfj@k;54]?kG8@z@1
+Z208 I8T70BW>G^RJW:KD6Qbhj32
+Z209 V[jS28]jNd7G`S`lNFQR4<2
+R4
+R5
+Z210 8F:/VerilogHDL/BOOK/Chapter2/or1200_immu_top.v
+Z211 FF:/VerilogHDL/BOOK/Chapter2/or1200_immu_top.v
+L0 53
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_iwb_biu
+Z212 !s100 :JXBB]V^go`CIK5aLomYE3
+Z213 IlR>^0i`96AYhcX6HRO17H2
+Z214 VC]HBc=2T<QN_aBjVHT<:=3
+R4
+R5
+Z215 8F:/VerilogHDL/BOOK/Chapter2/or1200_iwb_biu.v
+Z216 FF:/VerilogHDL/BOOK/Chapter2/or1200_iwb_biu.v
+L0 60
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_lsu
+Z217 !s100 @UQX;6?IZfBQbnPBaLg0m3
+Z218 I6U7_JMjoZ_Ga8Te>7el@R3
+Z219 VV]Nl5De2X2hP_6iec1KXI3
+R4
+R51
+Z220 8F:/VerilogHDL/BOOK/Chapter2/or1200_lsu.v
+Z221 FF:/VerilogHDL/BOOK/Chapter2/or1200_lsu.v
+L0 56
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_mem2reg
+Z222 !s100 82Fe6D_Td1:@Be^SHoJN@1
+Z223 ICkB;i?1<VADnBSifnW[@92
+Z224 Vg@i^J4]FXcJciHCb7UJ[;0
+R4
+R51
+Z225 8F:/VerilogHDL/BOOK/Chapter2/or1200_mem2reg.v
+Z226 FF:/VerilogHDL/BOOK/Chapter2/or1200_mem2reg.v
+L0 90
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_mult_mac
+Z227 !s100 GY`V^eAU4J8MD92G^749a3
+Z228 IYSHUWdIeBW>?nT>QP_O5i3
+Z229 VWQOGO6WOY071^>oAO@in[1
+R4
+R35
+Z230 8F:/VerilogHDL/BOOK/Chapter2/or1200_mult_mac.v
+Z231 FF:/VerilogHDL/BOOK/Chapter2/or1200_mult_mac.v
+L0 60
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_operandmuxes
+Z232 !s100 ;aLUOz3iDc3fYD3]gGz6X2
+Z233 I9R<`B=^FJBGl;=Ke?A>om2
+Z234 VhUP`;h6:H95MIR1DoBG>i3
+R4
+R35
+Z235 8F:/VerilogHDL/BOOK/Chapter2/or1200_operandmuxes.v
+Z236 FF:/VerilogHDL/BOOK/Chapter2/or1200_operandmuxes.v
+L0 54
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_pic
+Z237 !s100 2OhizeT=41=z8=F6<aF600
+Z238 IOm[ELSc;X=BaM7NU3kKde1
+Z239 VOna>C3cS^e`:2;jY27b4A1
+R4
+R35
+Z240 8F:/VerilogHDL/BOOK/Chapter2/or1200_pic.v
+Z241 FF:/VerilogHDL/BOOK/Chapter2/or1200_pic.v
+L0 53
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_pm
+Z242 !s100 a0KTM=U^hhVMJAOFU@Vk]3
+Z243 I9ngHDB9gXT0DzPZ`bUZMT3
+Z244 VdP2ng^A;j7@k[Bjhi;IS:3
+R4
+R51
+Z245 8F:/VerilogHDL/BOOK/Chapter2/or1200_pm.v
+Z246 FF:/VerilogHDL/BOOK/Chapter2/or1200_pm.v
+L0 75
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_qmem_top
+Z247 !s100 do47l?`<SlJEoldCLJJKc3
+Z248 Ik3dLO8bDj7S?V[60a@<CQ1
+Z249 VD]@O0K:?:LMEZdBVeAG]40
+R4
+Z250 w1353243392
+Z251 8F:/VerilogHDL/BOOK/Chapter2/or1200_qmem_top.v
+Z252 FF:/VerilogHDL/BOOK/Chapter2/or1200_qmem_top.v
+L0 87
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_reg2mem
+Z253 !s100 4R3WbVgSL=YnPT@T2TBnM3
+Z254 IiiTkjh0?zaSW23X8f8zon3
+Z255 VTelm16l;^:PgclWjKNL<d3
+R4
+R51
+Z256 8F:/VerilogHDL/BOOK/Chapter2/or1200_reg2mem.v
+Z257 FF:/VerilogHDL/BOOK/Chapter2/or1200_reg2mem.v
+L0 81
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_rf
+Z258 !s100 l[;A6<6`N@Y@KVWk`Ol;J0
+Z259 IOA;ZPjm7Q>0G`JSeVh:Qd1
+Z260 V>1zTISBd>Wn373EJjS1bl0
+R4
+R51
+Z261 8F:/VerilogHDL/BOOK/Chapter2/or1200_rf.v
+Z262 FF:/VerilogHDL/BOOK/Chapter2/or1200_rf.v
+L0 55
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_rfram_generic
+Z263 !s100 U8T2z]hG06odfh^YZ]IFY2
+Z264 IlBNT9>C0<nhn>GDQ7jdR12
+Z265 VDC=2[omB>n>OHo1V5n?Dz2
+R4
+R57
+Z266 8F:/VerilogHDL/BOOK/Chapter2/or1200_rfram_generic.v
+Z267 FF:/VerilogHDL/BOOK/Chapter2/or1200_rfram_generic.v
+L0 67
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_sb
+Z268 !s100 <JDWAF?Wie?ff=<BJSK1D2
+Z269 Ia34RVgVkK_Da7X9?h=c0F0
+Z270 VG7zEmLF;j>SiHO0m734f^2
+R4
+R5
+Z271 8F:/VerilogHDL/BOOK/Chapter2/or1200_sb.v
+Z272 FF:/VerilogHDL/BOOK/Chapter2/or1200_sb.v
+L0 55
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_sb_fifo
+Z273 !s100 9g@JbGEN=J7b0P43Z7L>M3
+Z274 IS98cJ[^i@PNAPmIo8kIS?1
+Z275 VlB2cGcX=8d^hH>fh9jjQ>1
+R4
+R5
+Z276 8F:/VerilogHDL/BOOK/Chapter2/or1200_sb_fifo.v
+Z277 FF:/VerilogHDL/BOOK/Chapter2/or1200_sb_fifo.v
+L0 66
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_sopc_tb
+Z278 VYj>`?>0`oX^8a[RS7U9[f0
+r1
+31
+Z279 IjUcfQD5TSEC4^9E_o^4DF0
+R4
+Z280 w1353243990
+Z281 8F:/VerilogHDL/BOOK/Chapter2/or1200_tb.v
+Z282 FF:/VerilogHDL/BOOK/Chapter2/or1200_tb.v
+L0 3
+R8
+R9
+R10
+Z283 !s100 AMzRN7IGG@eLQkEYLB76C2
+!s85 0
+!s101 -O0
+vor1200_spram
+Z284 !s100 `8B?10k=ObHM<M^:oYVig1
+Z285 InieIZBS2GAHkmGVPIi48K3
+Z286 V1K0UcVA4m2eMJ8;^jeCzG1
+R4
+R35
+Z287 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram.v
+Z288 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram.v
+L0 60
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_1024x32
+Z289 !s100 :kn0oG_LNIM8OQLce5Wlc1
+Z290 Ib9hY_OUb@UkVZ[PXje`FR0
+Z291 VSRzA0DiQhZ[b:2n00=_]f2
+R4
+R35
+Z292 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_1024x32.v
+Z293 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_1024x32.v
+Z294 L0 120
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_1024x32_bw
+Z295 !s100 EWi_=MAg5MQ]fe9GJWA?F3
+Z296 IT8RVHPGK=WC`f1i66fGof0
+Z297 VehEmU3Y<RlYAzUBl0_D@R1
+R4
+R57
+Z298 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_1024x32_bw.v
+Z299 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_1024x32_bw.v
+L0 89
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_1024x8
+Z300 !s100 I;V3`SIgCggFOiaO[3jUf0
+Z301 I3:]J57IK>Tl5J63W4]WRm0
+Z302 Vh;e^z2MING7M_0FDbAST52
+R4
+R114
+Z303 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_1024x8.v
+Z304 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_1024x8.v
+Z305 L0 117
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_128x32
+Z306 !s100 aYU0=AigfVJWjfJPPn>PZ1
+Z307 Im17E4;V06lnV;d1n5kjd90
+Z308 VPgj3^>SjM8bd=7V;Fd8K00
+R4
+R35
+Z309 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_128x32.v
+Z310 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_128x32.v
+L0 84
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_2048x32
+Z311 !s100 1?ClQ8YWPNK>>lm_O9WBF2
+Z312 IeMaQkEbC:8J6no@JR`CHY2
+Z313 VbiBjm@fSJI81kH;_FNeZC0
+R4
+Z314 w1353323452
+Z315 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_2048x32.v
+Z316 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_2048x32.v
+R294
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_2048x32_bw
+Z317 !s100 E^_Id_AD?hC=;GG0IoCJT2
+Z318 I;5id=W?iMP:gZmiToihB93
+Z319 VGR?T<;;@hkkY8;9>BT2053
+R4
+R5
+Z320 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_2048x32_bw.v
+Z321 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_2048x32_bw.v
+L0 92
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_2048x8
+Z322 !s100 4TcAm679a>nPj6AEX<BXM0
+Z323 IiDiTnS44HD@Q?0In<Wc8E2
+Z324 VDYUPKQe7LDUNP7PkG5n=;1
+R4
+R51
+Z325 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_2048x8.v
+Z326 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_2048x8.v
+R305
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_256x21
+Z327 !s100 le=zmzFNOR[`nBeXHnZHS2
+Z328 IB]UW=?NmG^AaAJoDNjnj<0
+Z329 VEh3YLVi]8P@<ga?95:Vo`2
+R4
+R51
+Z330 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_256x21.v
+Z331 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_256x21.v
+Z332 L0 126
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_32_bw
+Z333 !s100 liPWGJf8IJlEA[A?VzS913
+Z334 IM<Q[c=f^joE3@=CCn>CG93
+Z335 V720EV<dUUVANVFooVGT1]2
+R4
+R57
+Z336 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_32_bw.v
+Z337 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_32_bw.v
+L0 61
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_32x24
+Z338 !s100 0Mn`zz<_EPI^Yb<^7H3`[0
+Z339 IbPJGZmPF;XDokz<::<D=33
+Z340 V>M?bDAUY`j4MnV;KPjBdK3
+R4
+R35
+Z341 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_32x24.v
+Z342 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_32x24.v
+L0 88
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_512x20
+Z343 !s100 1GDfGzD_M8DFBLb_NF?Lk2
+Z344 I87UVEd];R@5SXgkH4Y4VZ2
+Z345 V8bl]mT1f8Ij3lLQWDj5W@2
+R4
+R57
+Z346 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_512x20.v
+Z347 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_512x20.v
+Z348 L0 123
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_64x14
+Z349 !s100 9BeDQc^a=>OFoiMNA9:XC1
+Z350 I7h0RS<LCK:7ZW?P6IM7PC0
+Z351 VQ9gg_U1EK]7W_6117^STL1
+R4
+R57
+Z352 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_64x14.v
+Z353 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_64x14.v
+R305
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_64x22
+Z354 !s100 16_WAbNSg6?nn=SJLOAeg2
+Z355 IMQ^]T^mO:XnH5R:;BSbGm3
+Z356 VlVPmSnEYb8S0^zbZN`9m_3
+R4
+R35
+Z357 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_64x22.v
+Z358 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_64x22.v
+R305
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_spram_64x24
+Z359 !s100 @P]<8i5d7RazAh43X2Z=O1
+Z360 I@AUVQRhg2URCS@aW:HkR81
+Z361 V;WZTl=bh?FSE=e:bJhAOW0
+R4
+R35
+Z362 8F:/VerilogHDL/BOOK/Chapter2/or1200_spram_64x24.v
+Z363 FF:/VerilogHDL/BOOK/Chapter2/or1200_spram_64x24.v
+R294
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_sprs
+Z364 !s100 Sg6g;]Tl7JDn[M8GPOmRA0
+Z365 IL;KUBObQ?:j1@J7Y7j`N;3
+Z366 VJOiOoaXG]ZM7GfS@JB:kF2
+R4
+R5
+Z367 8F:/VerilogHDL/BOOK/Chapter2/or1200_sprs.v
+Z368 FF:/VerilogHDL/BOOK/Chapter2/or1200_sprs.v
+L0 54
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_tb
+Z369 !s100 3L]TW;OXaWcEaF@?S7?@C3
+Z370 I=fI6f;^Z0KJh<cZXQf4h70
+Z371 V?zL4?=9BobeU8kjlfTf:E2
+R4
+Z372 w1353943348
+R281
+R282
+L0 3
+R8
+r1
+!s85 0
+31
+!s101 -O0
+R9
+R10
+vor1200_top
+Z373 !s100 lON9Ej=Vm@?dQ5K_nd2GE1
+Z374 I]UGcg7`d@ZD__g^kTdC<k1
+Z375 VN43]T3bdoV<diFGHLMEOC1
+R4
+R57
+Z376 8F:/VerilogHDL/BOOK/Chapter2/or1200_top.v
+Z377 FF:/VerilogHDL/BOOK/Chapter2/or1200_top.v
+L0 57
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_tpram_32x32
+Z378 !s100 zlOA<LPG6OVc@z^^70da70
+Z379 I`>4k@;XZc=46ze8>E;MBk3
+Z380 VLcz6>>ajKeUKJXbXZJESz3
+R4
+R51
+Z381 8F:/VerilogHDL/BOOK/Chapter2/or1200_tpram_32x32.v
+Z382 FF:/VerilogHDL/BOOK/Chapter2/or1200_tpram_32x32.v
+Z383 L0 110
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_tt
+Z384 !s100 068gWJ>=6LlDZ]eLeZ:bn0
+Z385 IaN^57R^iUnTUf2W@<31e]1
+Z386 V`UA2E2Tl_>eIS3e2Q0LU_3
+R4
+R5
+Z387 8F:/VerilogHDL/BOOK/Chapter2/or1200_tt.v
+Z388 FF:/VerilogHDL/BOOK/Chapter2/or1200_tt.v
+L0 50
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_wb_biu
+Z389 !s100 ^1E0:J6nXI_8V;X>8CQUU0
+Z390 IO9<M=U`:kEV3H7mCA`iGL0
+Z391 V7FD^BdRbaF08g5=SSgIXN2
+R4
+R51
+Z392 8F:/VerilogHDL/BOOK/Chapter2/or1200_wb_biu.v
+Z393 FF:/VerilogHDL/BOOK/Chapter2/or1200_wb_biu.v
+L0 61
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vor1200_wbmux
+Z394 !s100 5f>gXcSzE74Kfm2L59NgA2
+Z395 IAM]iagHie]e:[G?gOL_Bg1
+Z396 VWC2=C94J33kMigHd4JX9O1
+R4
+R35
+Z397 8F:/VerilogHDL/BOOK/Chapter2/or1200_wbmux.v
+Z398 FF:/VerilogHDL/BOOK/Chapter2/or1200_wbmux.v
+L0 54
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0

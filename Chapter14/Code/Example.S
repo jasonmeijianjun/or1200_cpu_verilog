@@ -1,0 +1,13 @@
+       .section .text,"ax"  
+       .global _start
+       .org 0x0                         #修改后的简单SOPC在复位后会从QMEM的0x0读取指令，所以此处为0x0
+_start:      
+      l.movhi r0,0x0                    #初始化r0、r1、r2、r3，分别设置为0x0、0x1、0x2、0x3
+      l.addi r1,r0,0x1
+      l.addi r2,r0,0x2
+      l.addi r3,r0,0x3
+      
+      l.sw 0x0(r0),r0                   #分别将0x0、0x1、0x2、0x3保存到RAM的地址0x0处
+      l.sw 0x0(r0),r1
+      l.sw 0x0(r0),r2
+      l.sw 0x0(r0),r3

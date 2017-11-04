@@ -1,0 +1,56 @@
+Seeding random generator with value 0xdd4fbeb7
+Or1ksim 2011-08-15
+Building automata... done, num uncovered: 0/213.
+Parsing operands data... done.
+Resetting PIC.
+loadcode: filename Example.or32  startaddr=00000000  virtphy_transl=00000000
+Not COFF file format
+ELF type: 0x0002
+ELF machine: 0x005c
+ELF version: 0x00000001
+ELF sec = 5
+Section: .text, vaddr: 0x00000000, paddr: 0x0 offset: 0x00002000, size: 0x000001a4
+S 00000100: a4000000 l.andi  r0,r0,0         r0         = 00000000  flag: 0
+S 00000104: 18200000 l.movhi r1,0            r1         = 00000000  flag: 0
+S 00000108: 18400000 l.movhi r2,0            r2         = 00000000  flag: 0
+S 0000010c: 18600000 l.movhi r3,0            r3         = 00000000  flag: 0
+S 00000110: 18800000 l.movhi r4,0            r4         = 00000000  flag: 0
+S 00000114: 18201234 l.movhi r1,0x1234       r1         = 12340000  flag: 0
+S 00000118: a8215678 l.ori   r1,r1,0x5678    r1         = 12345678  flag: 0
+S 0000011c: 18408765 l.movhi r2,0x8765       r2         = 87650000  flag: 0
+S 00000120: a8424321 l.ori   r2,r2,0x4321    r2         = 87654321  flag: 0
+S 00000124: e0611306 l.mul   r3,r1,r2        r3         = 70b88d78  flag: 0
+S 00000128: 15000000 l.nop   0                                      flag: 0
+S 0000012c: 15000000 l.nop   0                                      flag: 0
+S 00000130: e061130b l.mulu  r3,r1,r2        r3         = 70b88d78  flag: 0
+S 00000134: b0610069 l.muli  r3,r1,0x69      r3         = 77777738  flag: 0
+S 00000138: 18810000 l.macrc r4              r4         = 00000000  flag: 0
+S 0000013c: 15000000 l.nop   0                                      flag: 0
+S 00000140: 15000000 l.nop   0                                      flag: 0
+S 00000144: c4011001 l.mac   r1,r2                                  flag: 0
+S 00000148: 15000000 l.nop   0                                      flag: 0
+S 0000014c: 15000000 l.nop   0                                      flag: 0
+S 00000150: b4602801 l.mfspr r3,r0,0x2801    r3         = 70b88d78  flag: 0
+S 00000154: b4602802 l.mfspr r3,r0,0x2802    r3         = 00000000  flag: 0
+S 00000158: c4011001 l.mac   r1,r2                                  flag: 0
+S 0000015c: b4602801 l.mfspr r3,r0,0x2801    r3         = e1711af0  flag: 0
+S 00000160: b4602802 l.mfspr r3,r0,0x2802    r3         = 00000000  flag: 0
+S 00000164: 4c010012 l.maci  r1,0x12                                flag: 0
+S 00000168: b4602801 l.mfspr r3,r0,0x2801    r3         = 291f2f60  flag: 0
+S 0000016c: b4602802 l.mfspr r3,r0,0x2802    r3         = 00000001  flag: 0
+S 00000170: 4c01f000 l.maci  r1,-4096                               flag: 0
+S 00000174: b4602801 l.mfspr r3,r0,0x2801    r3         = e3b7af60  flag: 0
+S 00000178: b4602802 l.mfspr r3,r0,0x2802    r3         = 00000000  flag: 0
+S 0000017c: c4011002 l.msb   r1,r2                                  flag: 0
+S 00000180: b4602801 l.mfspr r3,r0,0x2801    r3         = 72ff21e8  flag: 0
+S 00000184: b4602802 l.mfspr r3,r0,0x2802    r3         = 00000000  flag: 0
+S 00000188: 15000000 l.nop   0                                      flag: 0
+S 0000018c: 15000000 l.nop   0                                      flag: 0
+S 00000190: e0620b09 l.div   r3,r2,r1        r3         = fffffffa  flag: 0
+S 00000194: 15000000 l.nop   0                                      flag: 0
+S 00000198: 15000000 l.nop   0                                      flag: 0
+S 0000019c: e0620b0a l.divu  r3,r2,r1        r3         = 00000007  flag: 0
+exit(7)
+@reset : cycles 0, insn #0
+@exit  : cycles 40, insn #41
+ diff  : cycles 40, insn #41

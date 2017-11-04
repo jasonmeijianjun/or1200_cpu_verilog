@@ -1,0 +1,33 @@
+  .section .text,"ax"
+	.org 0x100
+.global _start
+_start:
+      l.andi r0,r0,0      
+      l.extwz r1,r0
+      l.extwz r2,r0
+      l.extwz r3,r0
+      l.extwz r4,r0
+
+      l.mfspr r1,r0,0x0011   #读取SR，复位的时候SR为0x8001，最后一位为1，表示处于特权模式
+
+      l.ori r3,r1,0x6         #现在r1中存储的是SR的值，r1 & 0xfffffffe使得最低位为0，对应的就是SR的SM位
+
+      l.mtspr r0,r3,0x0011   #将r3写入SR，由于r3的最低位为0，所以现在就处于用户模式了，SR为0x8000
+
+      l.sys 0x0f0f                 #执行本指令的时候会将下一条指令的地址存入EPCR，所以l.rfe返回到下一条指令
+      l.mfspr r2,r0,0x11
+
+      l.trap 0                     #没有延迟槽，执行本指令的时候会将本指令地址存入EPCR，所以如果在自陷处理例程中使用l.rfe，将会返回到这里，形成死循环
+      l.ori r4,r0,0x2 
+
+         .org 0x0c00                  #0x0c00是系统调用异常处理例程入口地址
+      l.mfspr r1,r0,0x11
+      l.mfspr r1,r0,0x20
+      l.mfspr r2,r0,0x40
+      l.rfe      
+
+         .org 0x0e00                  #0x0e00是自陷异常处理例程入口地址
+      l.mfspr r1,r0,0x11
+      l.mfspr r1,r0,0x20
+      l.mfspr r2,r0,0x40
+      l.nop 0x0001

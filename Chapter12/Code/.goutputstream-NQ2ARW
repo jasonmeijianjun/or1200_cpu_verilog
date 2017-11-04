@@ -1,0 +1,44 @@
+       .section .text,"ax"  
+       .global _start
+       .org 0x100       
+_start:
+      l.movhi r0,0x0
+      l.addi r1,r0,0x0
+      l.addi r2,r0,0x0
+      l.addi r3,r0,0x0
+
+_IC_Init:
+      l.mtspr r0,r1,0x2000
+      l.sfeqi r1,0x2000
+      l.bnf _IC_Init
+      l.addi r1,r1,0x10
+
+      l.ori r3,r0,0x1             #设置寄存器r3为0x1 
+      l.mtspr r0,r3,0x1200        #向地址0x1200的SPR写入0x1，0x1200对应的SPR就是ITLBW0MR0，
+                                  #所以此处就是设置ITLBW0MR0，对应MR表的第0项放置0x1，
+                                  #其中VPN为0，Valid为1
+
+      l.ori r3,r0,0x00C0          #设置寄存器r3为0x00C0
+      l.mtspr r0,r3,0x1280        #向地址0x1280的SPR写入0x00C0，0x1280对应的SPR就是ITLBW0TR0，
+                                  #所以此处就是设置ITLBW0TR0，对应TR表的第0项放置0x00C0，其中PPN为0x0，
+                                  #sxe为1，uxe为1，ci为0
+      
+      l.ori r3,r0,0x8051          #使能IMMU、ICache
+      l.mtspr r0,r3,0x11
+      l.nop
+      
+_loop:
+      l.addi r1,r1,0x1
+      l.sfeqi r1,0x10
+      l.bnf _loop
+      l.addi r2,r2,0x1
+      
+      l.addi r1,r0,0x0
+      
+      l.ori r3,r0,0x00C1
+      l.mtspr r0,r3,0x1280
+      
+      l.j _loop
+      
+      
+

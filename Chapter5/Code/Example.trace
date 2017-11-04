@@ -1,0 +1,36 @@
+Seeding random generator with value 0x4c24739e
+Or1ksim 2011-08-15
+Building automata... done, num uncovered: 0/213.
+Parsing operands data... done.
+Resetting PIC.
+loadcode: filename Example.or32  startaddr=00000000  virtphy_transl=00000000
+Not COFF file format
+ELF type: 0x0002
+ELF machine: 0x005c
+ELF version: 0x00000001
+ELF sec = 5
+Section: .text, vaddr: 0x00000000, paddr: 0x0 offset: 0x00002000, size: 0x00000c0c
+S 00000100: 18000000 l.movhi r0,0            r0         = 00000000  flag: 0
+S 00000104: 18200000 l.movhi r1,0            r1         = 00000000  flag: 0
+S 00000108: 18400000 l.movhi r2,0            r2         = 00000000  flag: 0
+S 0000010c: 18600000 l.movhi r3,0            r3         = 00000000  flag: 0
+S 00000110: 18800000 l.movhi r4,0            r4         = 00000000  flag: 0
+S 00000114: b4200000 l.mfspr r1,r0,0         r1         = 00000000  flag: 0
+S 00000118: b4400001 l.mfspr r2,r0,0x1       r2         = 00000401  flag: 0
+S 0000011c: b4200010 l.mfspr r1,r0,0x10      r1         = 0000011c  flag: 0
+S 00000120: b4200012 l.mfspr r1,r0,0x12      r1         = 0000011c  flag: 0
+S 00000124: b4400011 l.mfspr r2,r0,0x11      r2         = 00008001  flag: 0
+S 00000128: 1880ffff l.movhi r4,0xffff       r4         = ffff0000  flag: 0
+S 0000012c: a884fffe l.ori   r4,r4,0xfffe    r4         = fffffffe  flag: 0
+S 00000130: b4200402 l.mfspr r1,r0,0x402     r1         = 00008001  flag: 0
+S 00000134: c0001403 l.mtspr r0,r2,0x403     SPR[0403]  = 00008001  flag: 0
+S 00000138: e0632003 l.and   r3,r3,r4        r3         = 00008000  flag: 0
+U 0000013c: c0001811 l.mtspr r0,r3,0x11      SPR[0011]  = 00008000  flag: 0
+U 00000140: 15000000 l.nop   0                                      flag: 0
+S 00000144: 20000001 l.sys   0x1                                    flag: 0
+S 00000c00: b4200020 l.mfspr r1,r0,0x20      r1         = 00000148  flag: 0
+S 00000c04: b4200040 l.mfspr r1,r0,0x40      r1         = 00008000  flag: 0
+exit(32768)
+@reset : cycles 0, insn #0
+@exit  : cycles 20, insn #21
+ diff  : cycles 20, insn #21

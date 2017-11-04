@@ -1,0 +1,381 @@
+# Reading C:/altera/10.1sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/min_or1200_sopc.mpf 
+# Loading project min_or1200_sopc
+# Compile of timescale.v was successful.
+# Compile of or1200_alu.v was successful.
+# Compile of or1200_amultp2_32x32.v was successful.
+# Compile of or1200_cfgr.v was successful.
+# Compile of or1200_cpu.v was successful.
+# Compile of or1200_ctrl.v was successful.
+# Compile of or1200_dc_fsm.v was successful.
+# Compile of or1200_dc_ram.v was successful.
+# Compile of or1200_dc_tag.v was successful.
+# Compile of or1200_dc_top.v was successful.
+# Compile of or1200_defines.v was successful.
+# Compile of or1200_dmmu_tlb.v was successful.
+# Compile of or1200_dmmu_top.v was successful.
+# Compile of or1200_dpram.v was successful.
+# Compile of or1200_dpram_32x32.v was successful.
+# Compile of or1200_dpram_256x32.v was successful.
+# Compile of or1200_du.v was successful.
+# Compile of or1200_except.v was successful.
+# Compile of or1200_fpu.v was successful.
+# Compile of or1200_fpu_addsub.v was successful.
+# Compile of or1200_fpu_arith.v was successful.
+# Compile of or1200_fpu_div.v was successful.
+# Compile of or1200_fpu_fcmp.v was successful.
+# Compile of or1200_fpu_intfloat_conv.v was successful.
+# Compile of or1200_fpu_intfloat_conv_except.v was successful.
+# Compile of or1200_fpu_mul.v was successful.
+# Compile of or1200_fpu_post_norm_addsub.v was successful.
+# Compile of or1200_fpu_post_norm_div.v was successful.
+# Compile of or1200_fpu_post_norm_intfloat_conv.v was successful.
+# Compile of or1200_fpu_post_norm_mul.v was successful.
+# Compile of or1200_fpu_pre_norm_addsub.v was successful.
+# Compile of or1200_fpu_pre_norm_div.v was successful.
+# Compile of or1200_fpu_pre_norm_mul.v was successful.
+# Compile of or1200_freeze.v was successful.
+# Compile of or1200_genpc.v was successful.
+# Compile of or1200_gmultp2_32x32.v was successful.
+# Compile of or1200_ic_fsm.v was successful.
+# Compile of or1200_ic_ram.v was successful.
+# Compile of or1200_ic_tag.v was successful.
+# Compile of or1200_ic_top.v was successful.
+# Compile of or1200_if.v was successful.
+# Compile of or1200_immu_tlb.v was successful.
+# Compile of or1200_immu_top.v was successful.
+# Compile of or1200_iwb_biu.v was successful.
+# Compile of or1200_lsu.v was successful.
+# Compile of or1200_mem2reg.v was successful.
+# Compile of or1200_mult_mac.v was successful.
+# Compile of or1200_operandmuxes.v was successful.
+# Compile of or1200_pic.v was successful.
+# Compile of or1200_pm.v was successful.
+# Compile of or1200_qmem_top.v was successful.
+# Compile of or1200_reg2mem.v was successful.
+# Compile of or1200_rf.v was successful.
+# Compile of or1200_rfram_generic.v was successful.
+# Compile of or1200_sb.v was successful.
+# Compile of or1200_sb_fifo.v was successful.
+# Compile of or1200_spram.v was successful.
+# Compile of or1200_spram_32_bw.v was successful.
+# Compile of or1200_spram_32x24.v was successful.
+# Compile of or1200_spram_64x14.v was successful.
+# Compile of or1200_spram_64x22.v was successful.
+# Compile of or1200_spram_64x24.v was successful.
+# Compile of or1200_spram_128x32.v was successful.
+# Compile of or1200_spram_256x21.v was successful.
+# Compile of or1200_spram_512x20.v was successful.
+# Compile of or1200_spram_1024x8.v was successful.
+# Compile of or1200_spram_1024x32.v was successful.
+# Compile of or1200_spram_1024x32_bw.v was successful.
+# Compile of or1200_spram_2048x8.v was successful.
+# Compile of or1200_spram_2048x32.v was successful.
+# Compile of or1200_spram_2048x32_bw.v was successful.
+# Compile of or1200_sprs.v was successful.
+# Compile of or1200_tb.v was successful.
+# Compile of or1200_top.v was successful.
+# Compile of or1200_tpram_32x32.v was successful.
+# Compile of or1200_tt.v was successful.
+# Compile of or1200_wb_biu.v was successful.
+# Compile of or1200_wbmux.v was successful.
+# Compile of or1200_xcv_ram32x8d.v was successful.
+# Compile of ram_top.v was successful.
+# Compile of ram.v was successful.
+# Compile of or1200_sopc.v was successful.
+# Compile of wb_conmax_arb.v was successful.
+# Compile of wb_conmax_defines.v was successful.
+# Compile of wb_conmax_master_if.v was successful.
+# Compile of wb_conmax_msel.v was successful.
+# Compile of wb_conmax_pri_dec.v was successful.
+# Compile of wb_conmax_pri_enc.v was successful.
+# Compile of wb_conmax_rf.v was successful.
+# Compile of wb_conmax_slave_if.v was successful.
+# Compile of wb_conmax_top.v was successful.
+# 91 compiles, 0 failed with no errors. 
+vsim -gui min_or1200_sopc.or1200_tb
+# vsim -gui min_or1200_sopc.or1200_tb 
+# Loading min_or1200_sopc.or1200_tb
+# Loading min_or1200_sopc.or1200_sopc
+# Loading min_or1200_sopc.or1200_top
+# Loading min_or1200_sopc.or1200_wb_biu
+# Loading min_or1200_sopc.or1200_immu_top
+# Loading min_or1200_sopc.or1200_immu_tlb
+# Loading min_or1200_sopc.or1200_spram
+# Loading min_or1200_sopc.or1200_ic_top
+# Loading min_or1200_sopc.or1200_ic_fsm
+# Loading min_or1200_sopc.or1200_ic_ram
+# Loading min_or1200_sopc.or1200_ic_tag
+# Loading min_or1200_sopc.or1200_cpu
+# Loading min_or1200_sopc.or1200_genpc
+# Loading min_or1200_sopc.or1200_if
+# Loading min_or1200_sopc.or1200_ctrl
+# Loading min_or1200_sopc.or1200_rf
+# Loading min_or1200_sopc.or1200_dpram
+# Loading min_or1200_sopc.or1200_operandmuxes
+# Loading min_or1200_sopc.or1200_alu
+# Loading min_or1200_sopc.or1200_fpu
+# Loading min_or1200_sopc.or1200_mult_mac
+# Loading min_or1200_sopc.or1200_gmultp2_32x32
+# Loading min_or1200_sopc.or1200_sprs
+# Loading min_or1200_sopc.or1200_lsu
+# Loading min_or1200_sopc.or1200_mem2reg
+# Loading min_or1200_sopc.or1200_reg2mem
+# Loading min_or1200_sopc.or1200_wbmux
+# Loading min_or1200_sopc.or1200_freeze
+# Loading min_or1200_sopc.or1200_except
+# Loading min_or1200_sopc.or1200_cfgr
+# Loading min_or1200_sopc.or1200_dmmu_top
+# Loading min_or1200_sopc.or1200_dmmu_tlb
+# Loading min_or1200_sopc.or1200_dc_top
+# Loading min_or1200_sopc.or1200_dc_fsm
+# Loading min_or1200_sopc.or1200_dc_ram
+# Loading min_or1200_sopc.or1200_spram_32_bw
+# Loading min_or1200_sopc.or1200_dc_tag
+# Loading min_or1200_sopc.or1200_qmem_top
+# Loading min_or1200_sopc.or1200_spram_2048x32
+# Loading min_or1200_sopc.or1200_sb
+# Loading min_or1200_sopc.or1200_du
+# Loading min_or1200_sopc.or1200_pic
+# Loading min_or1200_sopc.or1200_tt
+# Loading min_or1200_sopc.or1200_pm
+# Loading min_or1200_sopc.wb_conmax_top
+# Loading min_or1200_sopc.wb_conmax_master_if
+# Loading min_or1200_sopc.wb_conmax_slave_if
+# Loading min_or1200_sopc.wb_conmax_arb
+# Loading min_or1200_sopc.wb_conmax_msel
+# Loading min_or1200_sopc.wb_conmax_pri_enc
+# Loading min_or1200_sopc.wb_conmax_pri_dec
+# Loading min_or1200_sopc.wb_conmax_rf
+# Loading min_or1200_sopc.ram_top
+# Loading min_or1200_sopc.ram
+# ** Warning: (vsim-3017) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(245): [TFMPC] - Too few port connections. Expected 57, found 50.
+#         Region: /or1200_tb/or1200_sopc_inst/u_or1200
+# ** Warning: (vsim-3015) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(245): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 'pm_cpustall_i'. The port definition is at: F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_top.v(89).
+#         Region: /or1200_tb/or1200_sopc_inst/u_or1200
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(245): [TFMPC] - Missing connection for port 'iwb_cab_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(245): [TFMPC] - Missing connection for port 'iwb_cti_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(245): [TFMPC] - Missing connection for port 'iwb_bte_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(245): [TFMPC] - Missing connection for port 'dwb_cab_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(245): [TFMPC] - Missing connection for port 'dwb_cti_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(245): [TFMPC] - Missing connection for port 'dwb_bte_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(245): [TFMPC] - Missing connection for port 'sig_tick'.
+# ** Warning: (vsim-3017) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Too few port connections. Expected 242, found 32.
+#         Region: /or1200_tb/or1200_sopc_inst/u_wb
+# ** Warning: (vsim-3015) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 's0_err_i'. The port definition is at: F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/wb_conmax_top.v(98).
+#         Region: /or1200_tb/or1200_sopc_inst/u_wb
+# ** Warning: (vsim-3015) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 's0_rty_i'. The port definition is at: F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/wb_conmax_top.v(98).
+#         Region: /or1200_tb/or1200_sopc_inst/u_wb
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm2_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm2_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm2_addr_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm2_sel_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm2_we_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm2_cyc_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm2_stb_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm2_ack_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm2_err_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm2_rty_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm3_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm3_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm3_addr_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm3_sel_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm3_we_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm3_cyc_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm3_stb_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm3_ack_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm3_err_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm3_rty_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm4_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm4_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm4_addr_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm4_sel_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm4_we_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm4_cyc_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm4_stb_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm4_ack_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm4_err_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm4_rty_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm5_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm5_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm5_addr_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm5_sel_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm5_we_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm5_cyc_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm5_stb_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm5_ack_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm5_err_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm5_rty_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm6_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm6_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm6_addr_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm6_sel_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm6_we_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm6_cyc_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm6_stb_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm6_ack_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm6_err_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm6_rty_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm7_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm7_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm7_addr_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm7_sel_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm7_we_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm7_cyc_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm7_stb_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm7_ack_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm7_err_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 'm7_rty_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's1_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's1_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's1_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's1_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's1_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's1_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's1_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's1_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's1_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's1_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's2_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's2_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's2_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's2_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's2_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's2_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's2_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's2_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's2_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's2_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's3_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's3_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's3_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's3_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's3_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's3_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's3_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's3_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's3_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's3_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's4_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's4_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's4_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's4_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's4_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's4_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's4_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's4_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's4_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's4_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's5_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's5_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's5_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's5_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's5_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's5_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's5_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's5_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's5_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's5_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's6_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's6_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's6_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's6_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's6_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's6_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's6_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's6_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's6_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's6_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's7_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's7_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's7_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's7_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's7_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's7_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's7_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's7_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's7_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's7_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's8_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's8_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's8_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's8_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's8_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's8_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's8_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's8_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's8_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's8_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's9_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's9_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's9_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's9_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's9_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's9_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's9_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's9_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's9_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's9_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's10_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's10_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's10_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's10_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's10_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's10_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's10_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's10_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's10_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's10_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's11_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's11_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's11_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's11_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's11_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's11_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's11_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's11_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's11_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's11_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's12_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's12_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's12_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's12_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's12_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's12_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's12_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's12_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's12_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's12_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's13_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's13_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's13_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's13_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's13_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's13_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's13_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's13_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's13_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's13_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's14_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's14_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's14_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's14_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's14_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's14_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's14_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's14_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's14_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's14_rty_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's15_data_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's15_data_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's15_addr_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's15_sel_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's15_we_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's15_cyc_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's15_stb_o'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's15_ack_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's15_err_i'.
+# ** Warning: (vsim-3722) F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_sopc.v(334): [TFMPC] - Missing connection for port 's15_rty_i'.
+do F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/wave.do
+run -all
+# Break in Module or1200_tb at F:/VerilogHDL/BOOK/Project/Chapter13/WriteBack/or1200_tb.v line 19
